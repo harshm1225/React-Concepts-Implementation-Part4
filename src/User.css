@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;600&display=swap');
+body{
+  height: 100%;
+}
+.container{
+  height: fit-content;
+  max-width: 400px;
+  background-color: #444444;
+  color:  #AAAAAA;
+  border-radius: 10px;
+  margin: calc(7vh) auto;
+  padding: 1rem;
+}
+p{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+p span{
+  font-weight: bold;
+  text-transform: uppercase;
+  color:black;
+}
+.nav-container{
+margin-left:3rem;
+margin-top: 1rem;
+}
